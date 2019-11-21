@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<list>
+	<song id="1">
+		<artist>Ed Sheeran</artist>
+		<title>"Shape of You"</title>
+		<release_year>2017-01-06</release_year>
+		<genre>Pop</genre>
+		<country>UK</country>
+	</song>
+	<song id="2">
+		<artist>Drake</artist>
+		<title>"One Dance"</title>
+		<release_year>2016-04-05</release_year>
+		<genre>Hip-Hop/Rap</genre>
+		<country>Canada</country>
+	</song>
+	<song id="3">
+		<artist>Justin Bieber</artist>
+		<title>"Love Yourself"</title>
+		<release_year>2015-11-09</release_year>
+		<genre>Pop</genre>
+		<country>USA</country>
+	</song>
+	<song id="4">
+		<artist>James Arthur</artist>
+		<title>"Say You Won't Let Go"</title>
+		<release_year>2016-09-09</release_year>
+		<genre>Pop</genre>
+		<country>UK</country>
+	</song>
+	<song id="5">
+		<artist>Ed Sheeran</artist>
+		<title>"Photograph"</title>
+		<release_year>2014-06-20</release_year>
+		<genre>Pop</genre>
+		<country>UK</country>
+	</song>
+	<song id="6">
+		<artist>Dua Lipa</artist>
+		<title>"New Rules"</title>
+		<release_year>2017-06-02</release_year>
+		<genre>Pop</genre>
+		<country>UK</country>
+	</song>
+	<song id="7">
+		<artist>John Legend</artist>
+		<title>"All of Me"</title>
+		<release_year>2013-08-12</release_year>
+		<genre>Pop</genre>
+		<country>USA</country>
+	</song>
+	<song id="8">
+		<artist>Luis Fonsi</artist>
+		<title>"Despacito"</title>
+		<release_year>2017-01-12</release_year>
+		<genre>Latin Pop</genre>
+		<country>Puerto-Rico</country>
+	</song>
+	<song id="9">
+		<artist>Queen</artist>
+		<title>"Bohemian Rhapsody"</title>
+		<release_year>1975-10-31</release_year>
+		<genre>Rock</genre>
+		<country>UK</country>
+	</song>
+	<song id="10">
+		<artist>Lukas Graham</artist>
+		<title>"7 Years"</title>
+		<release_year>2015-06-16</release_year>
+		<genre>Pop</genre>
+		<country>Denmark</country>
+	</song>
+	<song id="11">
+		<artist>Passanger</artist>
+		<title>"Let Her Go"</title>
+		<release_year>2012-02-24</release_year>
+		<genre>Alternative/Indie</genre>
+		<country>UK</country>
+	</song>
+	<song id="12">
+		<artist>Adele</artist>
+		<title>"Hello"</title>
+		<release_year>2015-10-23</release_year>
+		<genre>Pop</genre>
+		<country>UK</country>
+	</song>
+	<song id="13">
+		<artist>Ariana Grande</artist>
+		<title>"7 Rings"</title>
+		<release_year>2019-01-18</release_year>
+		<genre>Pop</genre>
+		<country>USA</country>
+	</song>
+	<song id="14">
+		<artist>Lady Gaga and Bradley Cooper</artist>
+		<title>"Shallow"</title>
+		<release_year>2018-09-27</release_year>
+		<genre>Country</genre>
+		<country>USA</country>
+	</song>
+	<song id="15">
+		<artist>Sia</artist>
+		<title>"Chandelier"</title>
+		<release_year>2014-03-17</release_year>
+		<genre>Pop</genre>
+		<country>Australia</country>
+	</song>
+</list>
